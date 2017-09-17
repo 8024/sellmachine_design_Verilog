@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+# Start of session at: Tue Sep 12 19:22:13 2017
+# Process ID: 16692
+# Log file: G:/projects/sellmachine_design_second/sellmachine_design_second.runs/impl_1/sellmachine_design_second.vdi
+# Journal file: G:/projects/sellmachine_design_second/sellmachine_design_second.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source sellmachine_design_second.tcl -notrace
+
+*** Halting run - EA reset detected ***
+
+
+
+    while executing
+"start_step init_design"
+    (file "sellmachine_design_second.tcl" line 50)
+INFO: [Common 17-206] Exiting Vivado at Tue Sep 12 19:22:26 2017...
